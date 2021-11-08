@@ -1,3 +1,1 @@
-# Overleaf/Github Static Site
-
-Trying to demo this.
+Demo of how to use Overleaf, together with Github to create a static website for hosting PDF's and an index thereof.
