@@ -1,7 +1,8 @@
 # Overleaf/Github Static Site
 
-Trying to demo this.<!-- filetree -->
+<!-- filetree -->
 
+ - [lecture-01.pdf](./lecture-01.pdf)
  - [main.pdf](./main.pdf)
 
 <!-- filetreestop -->
