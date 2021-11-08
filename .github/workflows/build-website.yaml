@@ -37,7 +37,7 @@ jobs:
 
           mv generate_index.py index.py
           git stash --all
-          git checkout gh-pages origin/gh-pages
+          git checkout gh-pages
           for file in ${{ steps.changed-tex-files.outputs.all_modified_files }}; do
             rm -f "${file%.*}.pdf"
           done
